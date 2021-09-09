@@ -7,7 +7,7 @@ A classic British cake from the Bake Off judge, Paul Hollywood's lemon drizzle i
 | kcal | fat | saturates| carb | sugars | fibre | protein| salt | 
 | ---  | --- | -------- | ---- | ------ | ----- | ------ | ---- |
 | 236  | 6g  | 3g       | 43g  | 34     | 1g    | 2g     | 0.2g | 
-|      |     |          |      |        |       |        |      |
+
 
   ⌛  Prep:25 mins
 
