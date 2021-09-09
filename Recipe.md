@@ -4,10 +4,10 @@ A classic British cake from the Bake Off judge, Paul Hollywood's lemon drizzle i
 ![Picture](https://images.immediate.co.uk/production/volatile/sites/30/2020/08/lemon-drizzle-slices-ef377c7.jpg?quality=90&amp;resize=440,400)
 
 **Nutrition: per slice**
-kcal | fat | saturates| carb | sugars | fibre | protein| salt | 
---- | --- | --- | --- |--- |--- |--- |--- |
-236 | 6g | 3g | 43g | 34 | 1g | 2g | 0.2g | 
-
+| kcal | fat | saturates| carb | sugars | fibre | protein| salt | 
+| ---  | --- | -------- | ---- | ------ | ----- | ------ | ---- |
+| 236  | 6g  | 3g       | 43g  | 34     | 1g    | 2g     | 0.2g | 
+|      |     |          |      |        |       |        |      |
 
   ⌛  Prep:25 mins
 
