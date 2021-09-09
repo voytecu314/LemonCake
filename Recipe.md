@@ -13,6 +13,9 @@ kcal | fat | saturates| carb | sugars | fibre | protein| salt |
 
   ⌛ Cook:30 mins
 
+⭐⭐⭐⭐⭐ (64 Ratings)
+
+&nbsp;
 
 * **Ingredients**
 * For the cake
@@ -36,6 +39,8 @@ kcal | fat | saturates| carb | sugars | fibre | protein| salt |
     * 250g icing sugar
     * 3 tbsp water
     * splash of yellow food colouring
+
+&nbsp;
 
 # **Method**
 
